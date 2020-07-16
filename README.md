@@ -8,6 +8,12 @@
 ## iOS
 - [Stanford CS193p - Developing Apps for iOS (SWIFTUI)](https://cs193p.sites.stanford.edu/)
 
+
+## CSS
+- https://1linelayouts.glitch.me/
+- https://css-tricks.com/
+
+
 ## GraphQL 
 
 - https://www.apollographql.com/docs/tutorial/introduction/
@@ -21,14 +27,22 @@
 
 ## Langauge
 
-- [JavaScript](https://javascript.info/) 
-- [Swift](https://docs.swift.org/swift-book/index.html)
-- [Kotlin](https://kotlinlang.org/docs/tutorials/)
+### JavaScript
+- https://javascript.info
+
+### Swift 
+- https://docs.swift.org/swift-book/index.html
+
+### Kotlin
+- https://kotlinlang.org/docs/tutorials
 
 ## Git
 
 - https://www.atlassian.com/git/tutorials/what-is-version-control
 
+## Game Development
+- [Multiplayer Game Server for Node.js](https://colyseus.io/)
+-
 
 
 
@@ -36,4 +50,7 @@
 
 
 
-We prefer official docs for latest updates 😉
+
+
+
+  

@@ -58,6 +58,7 @@
 
 #### Kotlin
 - https://kotlinlang.org/docs/tutorials
+- [Style guide](https://developer.android.com/kotlin/style-guide)
 
 ## Git
 

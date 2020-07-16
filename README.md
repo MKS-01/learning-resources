@@ -33,8 +33,12 @@
 
 
 
-## GraphQL 
+## API 
 
+#### RESTful
+- [FastAPI Python 3.6+](https://fastapi.tiangolo.com/)
+
+#### GraphQL
 - https://www.apollographql.com/docs/tutorial/introduction/
 
 ## Cyber Security

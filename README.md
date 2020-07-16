@@ -4,8 +4,8 @@
 
 
 ## Android 
+- https://developer.android.com/courses/
 
-- https://developer.android.com/courses/android-basics-kotlin/course
 
 ## iOS
 - [Stanford CS193p - Developing Apps for iOS (SWIFTUI)](https://cs193p.sites.stanford.edu/)

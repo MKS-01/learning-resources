@@ -19,11 +19,16 @@
 - https://tryhackme.com/
 - https://www.hackthebox.eu/
 
-## langauge
+## Langauge
 
 - [JavaScript](https://javascript.info/) 
 - [Swift](https://docs.swift.org/swift-book/index.html)
 - [Kotlin](https://kotlinlang.org/docs/tutorials/)
+
+## Git
+
+- https://www.atlassian.com/git/tutorials/what-is-version-control
+
 
 
 

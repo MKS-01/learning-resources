@@ -27,13 +27,13 @@
 
 ## Langauge
 
-### JavaScript
+#### JavaScript
 - https://javascript.info
 
-### Swift 
+#### Swift 
 - https://docs.swift.org/swift-book/index.html
 
-### Kotlin
+#### Kotlin
 - https://kotlinlang.org/docs/tutorials
 
 ## Git

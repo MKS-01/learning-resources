@@ -1,12 +1,30 @@
 # learning-resources
 
 
+
+
 ## Android 
 
 - https://developer.android.com/courses/android-basics-kotlin/course
 
 ## iOS
 - [Stanford CS193p - Developing Apps for iOS (SWIFTUI)](https://cs193p.sites.stanford.edu/)
+
+
+## React 
+
+#### Server Side Rendering
+- [Next.js](https://nextjs.org/docs/getting-started)
+
+
+
+## React-Native
+- https://reactnative.dev/docs/getting-started
+- [React Navigation - Routing and navigation for your React Native apps](https://reactnavigation.org/docs/getting-started)
+
+
+
+
 
 
 ## CSS
@@ -40,9 +58,11 @@
 
 - https://www.atlassian.com/git/tutorials/what-is-version-control
 
+
 ## Game Development
+
 - [Multiplayer Game Server for Node.js](https://colyseus.io/)
--
+
 
 
 

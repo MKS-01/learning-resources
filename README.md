@@ -1,7 +1,7 @@
 # learning-resources
 
 ## Algorithm 
-- [Swift](https://github.com/raywenderlich/swift-algorithm-club)
+- [Swift-algorithms repo](https://github.com/raywenderlich/swift-algorithm-club) [iOS/macOS apps](https://apps.apple.com/us/app/algorithms-data-structures/id1431032601)
 
 
 

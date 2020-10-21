@@ -8,9 +8,13 @@
 Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/)
 
 
-
 ## Android 
 - https://developer.android.com/courses/
+
+## Blockchain
+- [Ethereum](https://ethereum.org/en/)
+- [Solidity](https://solidity.readthedocs.io/en/v0.7.4/index.html)
+
 
 
 ## iOS
@@ -29,14 +33,12 @@ Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai
 - [React Navigation - Routing and navigation for your React Native apps](https://reactnavigation.org/docs/getting-started)
 
 
-
 ## CSS
 - https://1linelayouts.glitch.me/
 - https://css-tricks.com/
 
 #### CSS in JS
 - [Styled-components](https://styled-components.com/docs)
-
 
 
 ## API 

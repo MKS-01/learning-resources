@@ -6,6 +6,7 @@
 ## AI 
 - [CS50’s
 Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/)
+- [Full Stack Deep learning](https://fullstackdeeplearning.com/march2019)
 
 
 ## Android 
@@ -34,8 +35,11 @@ Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai
 
 
 ## CSS
-- https://1linelayouts.glitch.me/
-- https://css-tricks.com/
+- [1-Line Layouts*](https://1linelayouts.glitch.me/)
+- [css-tricks](https://css-tricks.com/)
+- [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
 
 #### CSS in JS
 - [Styled-components](https://styled-components.com/docs)

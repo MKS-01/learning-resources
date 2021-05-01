@@ -16,8 +16,15 @@ Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai
 - [Ethereum](https://ethereum.org/en/)
 - [Solidity](https://solidity.readthedocs.io/en/v0.7.4/index.html)
 
+## Backend
 
+- [Node.js](https://nodejs.dev)
 
+### GraphQL
+
+- [Odyssey](https://odyssey.apollographql.com)
+   
+   
 ## iOS
 - [Stanford CS193p - Developing Apps for iOS (SWIFTUI)](https://cs193p.sites.stanford.edu/)
 - [Develop Apps with SwiftUI](https://developer.apple.com/tutorials/app-dev-training)
@@ -45,14 +52,6 @@ Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai
 #### CSS in JS
 - [Styled-components](https://styled-components.com/docs)
 
-
-## API 
-
-#### RESTful
-- [FastAPI Python 3.6+](https://fastapi.tiangolo.com/)
-
-#### GraphQL
-- https://www.apollographql.com/docs/tutorial/introduction/
 
 ## Cyber Security
 

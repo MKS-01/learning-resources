@@ -88,8 +88,9 @@ Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai
 
 
 
+## ARTICLE
 
-
+- [MongoDB Schema Design Best Practices](https://developer.mongodb.com/article/mongodb-schema-design-best-practices/)
 
 
 

@@ -88,10 +88,11 @@ Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai
 
 
 
-## ARTICLE
+## BLOG
 
 - [MongoDB Schema Design Best Practices](https://developer.mongodb.com/article/mongodb-schema-design-best-practices/)
 - [Best practices for using Docker Hub for CI/CD](https://www.docker.com/blog/best-practices-for-using-docker-hub-for-ci-cd/)
+- [PostgreSQL Query: Introduction, Explanation - The EDB Blog](https://www.enterprisedb.com/postgres-tutorials/postgresql-query-introduction-explanation-and-50-examples)
 
 
 

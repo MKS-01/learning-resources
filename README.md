@@ -91,7 +91,7 @@ Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai
 
 ## Git
 
--[What is version control?](https://www.atlassian.com/git/tutorials/what-is-version-control)
+- [What is version control?](https://www.atlassian.com/git/tutorials/what-is-version-control)
 
 
 ## Game Development

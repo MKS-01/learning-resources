@@ -1,5 +1,16 @@
 # learning-resources
 
+
+## BLOG
+
+- [MongoDB Schema Design Best Practices](https://developer.mongodb.com/article/mongodb-schema-design-best-practices/)
+- [Best practices for using Docker Hub for CI/CD](https://www.docker.com/blog/best-practices-for-using-docker-hub-for-ci-cd/)
+- [PostgreSQL Query: Introduction, Explanation - The EDB Blog](https://www.enterprisedb.com/postgres-tutorials/postgresql-query-introduction-explanation-and-50-examples)
+- [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app)
+- [Architecture and Design Principles Behind the Swiggy’s Delivery Partners app](https://bytes.swiggy.com/architecture-and-design-principles-behind-the-swiggys-delivery-partners-app-4db1d87a048a)
+- [Architecture and Design Principles Behind the Swiggy’s Delivery Partners app](https://bytes.swiggy.com/architecture-and-design-principles-behind-the-swiggys-delivery-partners-app-4db1d87a048a)
+
+
 ## Algorithm 
 - [Swift-algorithms repo](https://github.com/raywenderlich/swift-algorithm-club) [iOS/macOS apps](https://apps.apple.com/us/app/algorithms-data-structures/id1431032601)
 
@@ -60,9 +71,10 @@ Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai
 ## Cyber Security
 
 - [Standford CS 253 Web Security](https://web.stanford.edu/class/cs253/)
-- https://portswigger.net/web-security
-- https://tryhackme.com/
-- https://www.hackthebox.eu/
+- [Web Security Academy](https://portswigger.net/web-security)
+- [HACK THE BOX](https://www.hackthebox.eu/)
+- [TryHackMe](https://tryhackme.com/)
+
 
 ## Langauge
 
@@ -70,7 +82,7 @@ Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai
 - https://javascript.info
 
 #### Swift 
-- https://docs.swift.org/swift-book/index.html
+- [Official Doc](https://docs.swift.org/swift-book/index.html)
 
 #### Kotlin
 - https://kotlinlang.org/docs/tutorials
@@ -78,7 +90,7 @@ Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai
 
 ## Git
 
-- https://www.atlassian.com/git/tutorials/what-is-version-control
+-[What is version control?](https://www.atlassian.com/git/tutorials/what-is-version-control)
 
 
 ## Game Development
@@ -87,15 +99,3 @@ Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai
 
 
 
-
-## BLOG
-
-- [MongoDB Schema Design Best Practices](https://developer.mongodb.com/article/mongodb-schema-design-best-practices/)
-- [Best practices for using Docker Hub for CI/CD](https://www.docker.com/blog/best-practices-for-using-docker-hub-for-ci-cd/)
-- [PostgreSQL Query: Introduction, Explanation - The EDB Blog](https://www.enterprisedb.com/postgres-tutorials/postgresql-query-introduction-explanation-and-50-examples)
-- [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app)
-- [Architecture and Design Principles Behind the Swiggy’s Delivery Partners app](https://bytes.swiggy.com/architecture-and-design-principles-behind-the-swiggys-delivery-partners-app-4db1d87a048a)
-
-
-
-  

@@ -94,7 +94,7 @@ Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai
 - [Best practices for using Docker Hub for CI/CD](https://www.docker.com/blog/best-practices-for-using-docker-hub-for-ci-cd/)
 - [PostgreSQL Query: Introduction, Explanation - The EDB Blog](https://www.enterprisedb.com/postgres-tutorials/postgresql-query-introduction-explanation-and-50-examples)
 - [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app)
-
+- [Architecture and Design Principles Behind the Swiggy’s Delivery Partners app](https://bytes.swiggy.com/architecture-and-design-principles-behind-the-swiggys-delivery-partners-app-4db1d87a048a)
 
 
 

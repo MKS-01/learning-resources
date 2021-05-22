@@ -14,6 +14,11 @@
 
 ## Algorithm 
 - [Swift-algorithms repo](https://github.com/raywenderlich/swift-algorithm-club) [iOS/macOS apps](https://apps.apple.com/us/app/algorithms-data-structures/id1431032601)
+- [Javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+
+## System Design
+- [system-design-primer](https://github.com/donnemartin/system-design-primer)
+- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
 
 ## AI 
 - [CS50’s
@@ -97,6 +102,10 @@ Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai
 ## Game Development
 
 - [Multiplayer Game Server for Node.js](https://colyseus.io/)
+
+
+
+
 
 
 

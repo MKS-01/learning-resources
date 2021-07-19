@@ -1,5 +1,11 @@
 # learning-resources
 
+## BOOK 📚
+
+- [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.in/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D/ref=sr_1_1?dchild=1&keywords=Designing+Data-Intensive+Applications&qid=1626730508&s=digital-text&sr=1-1)
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems 2nd Edition, Kindle Edition](https://www.amazon.in/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B07XGF2G87/ref=sr_1_3?dchild=1&keywords=hands+on+machine+learning&qid=1626730577&s=digital-text&sr=1-3)
+- [Node.js Design Patterns: Design and implement production-grade Node.js applications using proven patterns and techniques, 3rd Edition](https://www.amazon.in/Node-js-Design-Patterns-production-grade-applications-ebook/dp/B08CHMDKW2/ref=sr_1_3?dchild=1&keywords=nodejs+design&qid=1626730651&s=digital-text&sr=1-3)
+- [Web Application Security: Exploitation and Countermeasures for Modern Web Applications ](https://www.amazon.in/Web-Application-Security-Exploitation-Countermeasures-ebook/dp/B085FW7J86/ref=sr_1_3?dchild=1&keywords=web+application+security&qid=1626730722&s=digital-text&sr=1-3)
 
 ## BLOG
 
